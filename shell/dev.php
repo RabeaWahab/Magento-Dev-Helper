@@ -1,4 +1,5 @@
 <?php
+//http://stackoverflow.com/questions/4307407/magento-checking-if-a-module-is-installed
 /**
  * Magento
  *
